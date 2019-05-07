@@ -1,0 +1,18 @@
+{
+  "name": "openchat_server",
+  "version": "1.0.0",
+  "description": "OpenChat server software",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Houghton (netx.dev)",
+  "license": "ISC",
+  "dependencies": {
+    "js-sha256": "^0.9.0",
+    "mongodb": "^3.2.3",
+    "node-redis-pubsub": "^4.0.0",
+    "websocket": "^1.0.28",
+    "ws": "^7.0.0"
+  }
+}

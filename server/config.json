@@ -1,0 +1,4 @@
+{
+    "databaseLocation": "localhost:27017",
+    "databaseName": "openchat"
+}

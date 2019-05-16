@@ -1,4 +1,5 @@
 # OpenChat
+## THIS IS NOT FINISHED!!
 OpenChat is a chat platform, designed to support multiple different chatrooms as well as sharding users across multiple servers instances
 
 ## Dependencies
